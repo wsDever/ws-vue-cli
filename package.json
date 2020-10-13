@@ -1,0 +1,17 @@
+{
+  "name": "crh-vue-cli",
+  "version": "1.0.0",
+  "author": "wushang0368@cairenhui.com",
+  "description": "This is a vue project template",
+  "private": false,
+  "homepage": "https://wsdever.github.io/vue-picture-show/",
+  "bin": {
+    "crh-vue-cli": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "commander": "^6.1.0"
+  },
+  "license": "MIT"
+}
