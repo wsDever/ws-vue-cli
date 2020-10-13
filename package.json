@@ -4,7 +4,7 @@
   "author": "wushang0368@cairenhui.com",
   "description": "This is a vue project template",
   "private": false,
-  "homepage": "https://wsdever.github.io/vue-picture-show/",
+  "homepage": "https://github.com/wsDever/ws-vue-cli.git",
   "bin": {
     "crh-vue-cli": "index.js"
   },

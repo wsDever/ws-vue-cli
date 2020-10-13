@@ -6,9 +6,9 @@
 
 **使用**
 
-> crh-vue-cli init <project-name>
+> crh-vue-cli init **project-name**
 
-> cd <project-name>
+> cd **project-name**
 
 > npm i
 
